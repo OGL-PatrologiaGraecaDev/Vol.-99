@@ -1,0 +1,26 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/99/hvd.32044023429921/646.png"; bbox 0 0 1984 3090; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1389 129 1902 282">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1389 129 1902 282">
+     <span class='ocr_line' id='line_1_1' title="bbox 1389 129 1902 282; baseline 0.025 -10"><span class='ocrx_word' id='word_1_1' title='bbox 1389 129 1902 282; x_wconf 55' lang='grc' dir='ltr'>ιειξειειεέιεξξεειι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1690 248 1865 290">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1690 248 1865 290">
+     <span class='ocr_line' id='line_1_2' title="bbox 1690 248 1865 290; baseline 0.04 -7"><span class='ocrx_word' id='word_1_2' title='bbox 1690 248 1771 286; x_wconf 88' lang='grc'>429</span> <span class='ocrx_word' id='word_1_3' title='bbox 1792 251 1865 290; x_wconf 85' lang='grc'>921</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 793 1968 1246 2024">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 793 1968 1246 2024">
+     <span class='ocr_line' id='line_1_3' title="bbox 793 1968 1246 2024; baseline 0.026 -12"><span class='ocrx_word' id='word_1_4' title='bbox 793 1968 895 2014; x_wconf 88' lang='lat' dir='ltr'>DOES</span> <span class='ocrx_word' id='word_1_5' title='bbox 924 1974 1002 2016; x_wconf 55' lang='lat' dir='ltr'>NCT</span> <span class='ocrx_word' id='word_1_6' title='bbox 1030 1977 1246 2024; x_wconf 50' lang='grc' dir='ltr'>Οὲζέεέλξέῖῖὲ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 787 2035 1253 2090">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 787 2035 1253 2090">
+     <span class='ocr_line' id='line_1_4' title="bbox 787 2035 1253 2090; baseline 0.024 -11"><span class='ocrx_word' id='word_1_7' title='bbox 787 2035 958 2084; x_wconf 72' lang='lat' dir='ltr'>OUTSIDE</span> <span class='ocrx_word' id='word_1_8' title='bbox 984 2041 1058 2086; x_wconf 82' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_9' title='bbox 1086 2044 1253 2090; x_wconf 49' lang='lat' dir='ltr'>UBEAJRY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
